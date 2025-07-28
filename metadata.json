@@ -1,0 +1,7 @@
+{
+  "name": "Ball Token",
+  "description": "The magical token from Tap Dragon - collect beautiful spheres dropped by Pyro in this enchanting Telegram mini app game",
+  "symbol": "BALL",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/Mity-Dev/ball-token-assets/main/BALL-Token-Icon.png"
+}
